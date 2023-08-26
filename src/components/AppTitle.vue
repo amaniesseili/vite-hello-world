@@ -1,6 +1,7 @@
 <script>
 export default {
   name:"AppTitle"
+
 }
 </script>
 
@@ -12,6 +13,7 @@ export default {
 <style scoped>
 h1{
   font-size: 50px;
+  color: #dcc2e0;
 
 }
 </style>
